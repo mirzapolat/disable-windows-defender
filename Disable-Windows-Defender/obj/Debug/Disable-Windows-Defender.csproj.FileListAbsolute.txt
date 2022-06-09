@@ -1,0 +1,5 @@
+C:\Users\mirza\Documents\Disable-Windows-Defender-master\Disable-Windows-Defender\bin\Debug\Disable-Windows-Defender.exe
+C:\Users\mirza\Documents\Disable-Windows-Defender-master\Disable-Windows-Defender\bin\Debug\Disable-Windows-Defender.pdb
+C:\Users\mirza\Documents\Disable-Windows-Defender-master\Disable-Windows-Defender\obj\Debug\Disable-Windows-Defender.csprojAssemblyReference.cache
+C:\Users\mirza\Documents\Disable-Windows-Defender-master\Disable-Windows-Defender\obj\Debug\Disable-Windows-Defender.exe
+C:\Users\mirza\Documents\Disable-Windows-Defender-master\Disable-Windows-Defender\obj\Debug\Disable-Windows-Defender.pdb

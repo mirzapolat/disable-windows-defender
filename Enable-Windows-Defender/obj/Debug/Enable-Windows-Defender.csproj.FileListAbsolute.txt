@@ -1,0 +1,8 @@
+C:\Users\mirza\Documents\Disable-Windows-Defender-master\Enable-Windows-Defender\bin\Debug\Enable-Windows-Defender.exe.config
+C:\Users\mirza\Documents\Disable-Windows-Defender-master\Enable-Windows-Defender\bin\Debug\Enable-Windows-Defender.exe
+C:\Users\mirza\Documents\Disable-Windows-Defender-master\Enable-Windows-Defender\bin\Debug\Enable-Windows-Defender.pdb
+C:\Users\mirza\Documents\Disable-Windows-Defender-master\Enable-Windows-Defender\obj\Debug\Enable-Windows-Defender.csprojAssemblyReference.cache
+C:\Users\mirza\Documents\Disable-Windows-Defender-master\Enable-Windows-Defender\obj\Debug\Enable_Windows_Defender.Properties.Resources.resources
+C:\Users\mirza\Documents\Disable-Windows-Defender-master\Enable-Windows-Defender\obj\Debug\Enable-Windows-Defender.csproj.GenerateResource.cache
+C:\Users\mirza\Documents\Disable-Windows-Defender-master\Enable-Windows-Defender\obj\Debug\Enable-Windows-Defender.exe
+C:\Users\mirza\Documents\Disable-Windows-Defender-master\Enable-Windows-Defender\obj\Debug\Enable-Windows-Defender.pdb
